@@ -14,8 +14,8 @@ const Navbar = () => {
           <button class="hover:text-[#1306AC] hidden 2xl:block">More</button>
         </div>
         <div class="flex">
-          <button class="px-6 py-4 text-md text-[#0E28AC] mr-10 border border-[#0E28AC] rounded-xl hover:bg-[#DDF8F7] hidden sm:block">Log in</button>
-          <button class="px-6 py-4 bg-[#0A1A6F] rounded-xl text-white hover:bg-[#001817] hidden lg:block">Get PayGround</button>
+          <button class="sm:py-2 px-6 md:py-4 text-md text-[#0E28AC] mr-10 border border-[#0E28AC] rounded-xl hover:bg-[#DDF8F7] hidden sm:block">Log in</button>
+          <button class="px-6 py-4 bg-[#0A1A6F] rounded-xl text-white hover:bg-[#001817] hidden md:block">Get PayGround</button>
         </div> 
       
     </nav>
